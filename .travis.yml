@@ -4,9 +4,9 @@ jdk:
 
 
 addons: 
-sonarcloud: 
-organization: "NicoRs96"
-token:"3b4bcfa418ee82f3ffd978be9ec69ef35fc5805d" 
+ sonarcloud: 
+  organization: "NicoRs96"
+  token:"3b4bcfa418ee82f3ffd978be9ec69ef35fc5805d" 
 
 script: 
 - ant build 
